@@ -1,0 +1,10 @@
+E:\IF4\appseldat\appTugas3.1\appTugas3.1\bin\Debug\appTugas3.1.exe.config
+E:\IF4\appseldat\appTugas3.1\appTugas3.1\bin\Debug\appTugas3.1.exe
+E:\IF4\appseldat\appTugas3.1\appTugas3.1\bin\Debug\appTugas3.1.pdb
+E:\IF4\appseldat\appTugas3.1\appTugas3.1\obj\Debug\appTugas3._1.Form1.resources
+E:\IF4\appseldat\appTugas3.1\appTugas3.1\obj\Debug\appTugas3._1.Properties.Resources.resources
+E:\IF4\appseldat\appTugas3.1\appTugas3.1\obj\Debug\appTugas3.1.csproj.GenerateResource.cache
+E:\IF4\appseldat\appTugas3.1\appTugas3.1\obj\Debug\appTugas3.1.csproj.CoreCompileInputs.cache
+E:\IF4\appseldat\appTugas3.1\appTugas3.1\obj\Debug\appTugas3.1.exe
+E:\IF4\appseldat\appTugas3.1\appTugas3.1\obj\Debug\appTugas3.1.pdb
+E:\IF4\appseldat\appTugas3.1\appTugas3.1\obj\Debug\appTugas3.1.csprojAssemblyReference.cache

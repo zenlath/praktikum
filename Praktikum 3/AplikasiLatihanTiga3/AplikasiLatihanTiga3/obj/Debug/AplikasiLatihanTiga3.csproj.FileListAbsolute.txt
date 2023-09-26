@@ -1,0 +1,10 @@
+E:\IF4\appseldat\AplikasiLatihanTiga3\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.exe.config
+E:\IF4\appseldat\AplikasiLatihanTiga3\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.exe
+E:\IF4\appseldat\AplikasiLatihanTiga3\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.pdb
+E:\IF4\appseldat\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.Form1.resources
+E:\IF4\appseldat\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.Properties.Resources.resources
+E:\IF4\appseldat\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csproj.GenerateResource.cache
+E:\IF4\appseldat\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csproj.CoreCompileInputs.cache
+E:\IF4\appseldat\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.exe
+E:\IF4\appseldat\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.pdb
+E:\IF4\appseldat\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csprojAssemblyReference.cache

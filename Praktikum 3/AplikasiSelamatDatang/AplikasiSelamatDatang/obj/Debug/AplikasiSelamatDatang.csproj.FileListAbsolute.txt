@@ -1,0 +1,10 @@
+E:\IF4\appseldat\AplikasiSelamatDatang\AplikasiSelamatDatang\bin\Debug\AplikasiSelamatDatang.exe.config
+E:\IF4\appseldat\AplikasiSelamatDatang\AplikasiSelamatDatang\bin\Debug\AplikasiSelamatDatang.exe
+E:\IF4\appseldat\AplikasiSelamatDatang\AplikasiSelamatDatang\bin\Debug\AplikasiSelamatDatang.pdb
+E:\IF4\appseldat\AplikasiSelamatDatang\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.csprojAssemblyReference.cache
+E:\IF4\appseldat\AplikasiSelamatDatang\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.Form1.resources
+E:\IF4\appseldat\AplikasiSelamatDatang\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.Properties.Resources.resources
+E:\IF4\appseldat\AplikasiSelamatDatang\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.csproj.GenerateResource.cache
+E:\IF4\appseldat\AplikasiSelamatDatang\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.csproj.CoreCompileInputs.cache
+E:\IF4\appseldat\AplikasiSelamatDatang\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.exe
+E:\IF4\appseldat\AplikasiSelamatDatang\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.pdb

@@ -1,0 +1,10 @@
+E:\IF4\appseldat\TulisanBerjalan\TulisanBerjalan\bin\Debug\TulisanBerjalan.exe.config
+E:\IF4\appseldat\TulisanBerjalan\TulisanBerjalan\bin\Debug\TulisanBerjalan.exe
+E:\IF4\appseldat\TulisanBerjalan\TulisanBerjalan\bin\Debug\TulisanBerjalan.pdb
+E:\IF4\appseldat\TulisanBerjalan\TulisanBerjalan\obj\Debug\TulisanBerjalan.Form1.resources
+E:\IF4\appseldat\TulisanBerjalan\TulisanBerjalan\obj\Debug\TulisanBerjalan.Properties.Resources.resources
+E:\IF4\appseldat\TulisanBerjalan\TulisanBerjalan\obj\Debug\TulisanBerjalan.csproj.GenerateResource.cache
+E:\IF4\appseldat\TulisanBerjalan\TulisanBerjalan\obj\Debug\TulisanBerjalan.csproj.CoreCompileInputs.cache
+E:\IF4\appseldat\TulisanBerjalan\TulisanBerjalan\obj\Debug\TulisanBerjalan.exe
+E:\IF4\appseldat\TulisanBerjalan\TulisanBerjalan\obj\Debug\TulisanBerjalan.pdb
+E:\IF4\appseldat\TulisanBerjalan\TulisanBerjalan\obj\Debug\TulisanBerjalan.csprojAssemblyReference.cache
